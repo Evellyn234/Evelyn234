@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 💙
 
-meu nome é Evellyn Buzinel
+meu nome é Evellyn Buzineli
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvovendo na linguagem JavaScript
